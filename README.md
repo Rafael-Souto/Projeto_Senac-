@@ -1,3 +1,3 @@
 # Projeto Senac
 
-## Algoritmo para consultar a media em ate cinco materias
+## Algoritmo para consultar a média em até cinco matérias
